@@ -1,4 +1,8 @@
-# TuduMVC - a React.js + Hooks Implementation of TodoMVC with Urbit Integration
+# Urbit-Notetaker-Lists
+
+We are using Urbit based integration of TodoMVC example for implementing a notetaker application integrated with UrbitCalc.
+
+TuduMVC - a React.js + Hooks Implementation of TodoMVC with Urbit Integration
 
 [![awesome urbit badge](https://img.shields.io/badge/~-awesome%20urbit-lightgrey)](https://github.com/urbit/awesome-urbit)
 
