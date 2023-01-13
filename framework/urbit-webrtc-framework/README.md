@@ -1,4 +1,8 @@
 # urbit-webrtc
+
+We are extending the WebRTC integration for Urbit in UrbitCalc to enable peer to peer collaboration and also for getting just in time support.
+
+
 WebRTC integration for Urbit: https://grants.urbit.org/proposals/21131866-webrtc-gall-agent-and-external-app
 
 [![awesome urbit badge](https://img.shields.io/badge/~-awesome%20urbit-lightgrey)](https://github.com/urbit/awesome-urbit)
