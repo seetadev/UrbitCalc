@@ -1,4 +1,9 @@
-# *Canvas* for \~Urbit
+# Urbit Signature and Annotation Tool
+
+We are using Canvas for Urbit for implementing Signature and Annotation Tool integrated with UrbitCalc.
+
+
+*Canvas* for \~Urbit
 
 [![awesome urbit badge](https://img.shields.io/badge/~-awesome%20urbit-lightgrey)](https://github.com/urbit/awesome-urbit)
 
