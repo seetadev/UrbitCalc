@@ -28,5 +28,9 @@ Video Chat Integration: We are extending the WebRTC integration for Urbit to ena
 Chatbot integration: We are using Urbit chatbot framework within our solution to enable quick help on the spreadsheet features for a new user. Please visit https://github.com/seetadev/UrbitCalc/tree/main/base/urbit-simple-chatbot
 
 
+# Web 2.0 background work
+
+Please find our background work and research papers published on SocialCalc at https://drive.google.com/drive/u/5/folders/1pYnBIFFLEAHLUSopIGe3I6qQIrDgellw
+
  
 
