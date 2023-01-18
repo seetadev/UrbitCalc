@@ -30,7 +30,8 @@ Chatbot integration: We are using Urbit chatbot framework within our solution to
 
 # Web 2.0 background work
 
-Please find our background work and research papers published on SocialCalc at https://drive.google.com/drive/u/5/folders/1pYnBIFFLEAHLUSopIGe3I6qQIrDgellw
+Please find our background work and research papers published on SocialCalc, the community spreadsheet at https://drive.google.com/drive/u/5/folders/1pYnBIFFLEAHLUSopIGe3I6qQIrDgellw
 
+Link to try SocialCalc: http://activities.sugarlabs.org/en-US/sugar/addon/4084
  
 
